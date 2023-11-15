@@ -1,0 +1,22 @@
+body {
+    background-color: black;
+}
+
+.poster {
+    width: 30%;
+    text-align: center;
+    margin-left: 35%;
+    margin-top: 50px;
+    color: white;
+    font-family: Merriweather, serif;
+}
+
+.bros {
+    border: 5px solid red;
+    width: 100%;
+}
+
+h1 {
+    font-size: 2rem;
+    text-transform: uppercase;
+}
